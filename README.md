@@ -26,3 +26,5 @@ systemJSPrototype.import@https://cdn.jsdelivr.net/npm/systemjs/dist/system.js:77
 @http://single-spa-playground.org/:106:16
 react-reconciler.development.js:15120
 ```
+### expected behavior
+run `npm run start:standalone` to see the expected behavior of the app
